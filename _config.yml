@@ -1,5 +1,5 @@
 url: https://contest-sakha.ru/
-baseurl:
+baseurl: /contest-sakha.ru
 title:
   ru: Олимпиады по программированию в РС(Я)
   en: Programming contests in Republic Sakha (Yakutia)
@@ -30,6 +30,12 @@ countries:
   bulgaria:
     ru: Болгария
     en: Bulgaria
+  hongkong:
+    ru: Гонконг (Китай)
+    en: Hong Kong (China)
+  indonesia:
+    ru: Индонезия
+    en: Indonesia
 
 contest_nicknames:
   tuy:
