@@ -1,8 +1,10 @@
 results:
-  - participant_ru: Поповичи Роберт-Адриан
-    participant_en: Popovici  Robert-Adrian
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Поповичи Роберт-Адриан
+      en: Popovici  Robert-Adrian
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 100
@@ -14,10 +16,12 @@ results:
       - 100
       - 100
     place: 1DD
-  - participant_ru: Мушат Тибериу Иоан
-    participant_en: Mușat Tiberiu Ioan
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Мушат Тибериу Иоан
+      en: Mușat Tiberiu Ioan
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 100
@@ -29,10 +33,12 @@ results:
       - 100
       - 100
     place: 1DD
-  - participant_ru: Дику Адриан Эмануэль
-    participant_en: Dicu Adrian Emanuel
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Дику Адриан Эмануэль
+      en: Dicu Adrian Emanuel
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 100
@@ -44,10 +50,12 @@ results:
       - 100
       - 100
     place: 1DD
-  - participant_ru: Флореску Андреа-Селла
-    participant_en: Florescu Andreea-Cella
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Флореску Андреа-Селла
+      en: Florescu Andreea-Cella
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 100
@@ -59,10 +67,12 @@ results:
       - 100
       - 40
     place: SA
-  - participant_ru: Тинка Матей
-    participant_en: Tinka Matei
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Тинка Матей
+      en: Tinka Matei
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 100
@@ -74,10 +84,12 @@ results:
       - 100
       - 100
     place: 2DD
-  - participant_ru: Байболов Темирлан
-    participant_en: Baybolov Temirlan
-    country_ru: Казахстан
-    country_en: Kazakhstan
+  - participant:
+      ru: Байболов Темирлан
+      en: Baybolov Temirlan
+    country:
+      ru: Казахстан
+      en: Kazakhstan
     problems1:
       - 100
       - 100
@@ -89,10 +101,12 @@ results:
       - 100
       - 40
     place: 2DD
-  - participant_ru: Айткали Акылбек
-    participant_en: Aytkali Akylbek
-    country_ru: Казахстан
-    country_en: Kazakhstan
+  - participant:
+      ru: Айткали Акылбек
+      en: Aytkali Akylbek
+    country:
+      ru: Казахстан
+      en: Kazakhstan
     problems1:
       - 100
       - 100
@@ -104,10 +118,12 @@ results:
       - 100
       - 40
     place: 2DD
-  - participant_ru: Тан Люк
-    participant_en: Tan Luke
-    country_ru: Сингапур
-    country_en: Singapore
+  - participant:
+      ru: Тан Люк
+      en: Tan Luke
+    country:
+      ru: Сингапур
+      en: Singapore
     problems1:
       - 100
       - 30
@@ -119,10 +135,12 @@ results:
       - 100
       - 30
     place: 2DD
-  - participant_ru: Ленг Сонг-Чжу Оуэн
-    participant_en: Leiong Song Zhu Owen
-    country_ru: Сингапур
-    country_en: Singapore
+  - participant:
+      ru: Ленг Сонг-Чжу Оуэн
+      en: Leiong Song Zhu Owen
+    country:
+      ru: Сингапур
+      en: Singapore
     problems1:
       - 100
       - 30
@@ -134,10 +152,12 @@ results:
       - 100
       - 40
     place: 3DD
-  - participant_ru: Муратов Адильхан
-    participant_en: Muratov Adilkhan
-    country_ru: Казахстан
-    country_en: Kazakhstan
+  - participant:
+      ru: Муратов Адильхан
+      en: Muratov Adilkhan
+    country:
+      ru: Казахстан
+      en: Kazakhstan
     problems1:
       - 100
       - 100
@@ -149,10 +169,12 @@ results:
       - 100
       - 40
     place: 3DD
-  - participant_ru: Семенов Никита
-    participant_en: Semenov Nikita
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Семенов Никита
+      en: Semenov Nikita
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 0
@@ -164,10 +186,12 @@ results:
       - 70
       - 0
     place: 3DD
-  - participant_ru: Попов Кирилл
-    participant_en: Popov Kirill
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Попов Кирилл
+      en: Popov Kirill
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 0
@@ -179,10 +203,12 @@ results:
       - 0
       - 0
     place: 3DD
-  - participant_ru: Егоров Мичил
-    participant_en: Egorov Michil
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Егоров Мичил
+      en: Egorov Michil
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 0
@@ -194,10 +220,12 @@ results:
       - 0
       - 0
     place: 3DD
-  - participant_ru: Босоева Эльвира
-    participant_en: Bosoeva Elvira
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Босоева Эльвира
+      en: Bosoeva Elvira
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 50
       - 0
@@ -209,10 +237,12 @@ results:
       - 30
       - 0
     place: HML
-  - participant_ru: Арменакян Карен
-    participant_en: Armenakyan Karen
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Арменакян Карен
+      en: Armenakyan Karen
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 0
@@ -224,29 +254,33 @@ results:
       - 30
       - 0
     place: HML
-  - participant_ru: Ульянов Алексей
-    participant_en: Ulyanov Alexey
-    country_ru: Россия
-    country_en: Russia
-    problems1:
-      - 50
-      - 0
-      - 0
-      - 0
-    problems2:
-      - 100
-      - 0
-      - 30
-      - 0
-    place: HML
-  - participant_ru: Филатов Байдам
-    participant_en: Filatov Baydam
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Ульянов Алексей
+      en: Ulyanov Alexey
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 50
       - 0
       - 0
+      - 0
+    problems2:
+      - 100
+      - 0
+      - 30
+      - 0
+    place: HML
+  - participant:
+      ru: Филатов Байдам
+      en: Filatov Baydam
+    country:
+      ru: Россия
+      en: Russia
+    problems1:
+      - 50
+      - 0
+      - 0
       - 30
     problems2:
       - 100
@@ -254,10 +288,12 @@ results:
       - 0
       - 0
     place: HML
-  - participant_ru: Це Хой-Чун
-    participant_en: Tse Hoi Chun
-    country_ru: Гонконг
-    country_en: Hong Kong
+  - participant:
+      ru: Це Хой-Чун
+      en: Tse Hoi Chun
+    country:
+      ru: Гонконг
+      en: Hong Kong
     problems1:
       - 50
       - 30
@@ -269,10 +305,12 @@ results:
       - 30
       - 0
     place: ""
-  - participant_ru: Иванов Данил
-    participant_en: Ivanov Danil
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Иванов Данил
+      en: Ivanov Danil
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 0
@@ -284,10 +322,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Беляев Владимир
-    participant_en: Belyaev Vladimir
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Беляев Владимир
+      en: Belyaev Vladimir
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 50
       - 0
@@ -299,10 +339,12 @@ results:
       - 30
       - 0
     place: ""
-  - participant_ru: Захаров Алексей
-    participant_en: Zakharov Alexey
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Захаров Алексей
+      en: Zakharov Alexey
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 0
       - 0
@@ -314,10 +356,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Баданов Чингис
-    participant_en: Badanov Chingis
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Баданов Чингис
+      en: Badanov Chingis
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 50
       - 0
@@ -329,10 +373,12 @@ results:
       - 0
       - 0
     place: SA
-  - participant_ru: Фонг Хин-Тун
-    participant_en: Fong Hin Tung
-    country_ru: Гонконг
-    country_en: Hong Kong
+  - participant:
+      ru: Фонг Хин-Тун
+      en: Fong Hin Tung
+    country:
+      ru: Гонконг
+      en: Hong Kong
     problems1:
       - 50
       - 0
@@ -344,10 +390,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Мальцева Юлия
-    participant_en: Maltseva Yuliya
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Мальцева Юлия
+      en: Maltseva Yuliya
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 50
       - 0
@@ -359,10 +407,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Ховров Дмитрий
-    participant_en: Khovrov Dmitriy
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Ховров Дмитрий
+      en: Khovrov Dmitriy
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 50
       - 0
@@ -374,10 +424,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Вонг Вин-Ян
-    participant_en: Wong Wing Yan
-    country_ru: Гонконг
-    country_en: Hong Kong
+  - participant:
+      ru: Вонг Вин-Ян
+      en: Wong Wing Yan
+    country:
+      ru: Гонконг
+      en: Hong Kong
     problems1:
       - 0
       - 0
@@ -389,10 +441,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Захаров Айтал
-    participant_en: Zakharov Aytal
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Захаров Айтал
+      en: Zakharov Aytal
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 0
       - 0
@@ -404,10 +458,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Антонов Анатолий
-    participant_en: Antonov Anatoliy
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Антонов Анатолий
+      en: Antonov Anatoliy
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 0
       - 0

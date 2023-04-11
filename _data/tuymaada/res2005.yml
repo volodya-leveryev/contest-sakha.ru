@@ -1,8 +1,10 @@
 results:
-  - participant_ru: Туфанов Игорь
-    participant_en: Tufanov Igor
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Туфанов Игорь
+      en: Tufanov Igor
+    country:
+      ru: Россия
+      en: Russia
     city: Владивосток
     problems1:
       - 79
@@ -13,10 +15,12 @@ results:
       - 100
       - 100
     place: "1"
-  - participant_ru: Буруиана Филип
-    participant_en: Buruiana Filip
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Буруиана Филип
+      en: Buruiana Filip
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 30
@@ -26,10 +30,12 @@ results:
       - 100
       - 40
     place: "2"
-  - participant_ru: Гладченко Максим
-    participant_en: Gladchenko Maxim
-    country_ru: Казахстан
-    country_en: Kazakhstan
+  - participant:
+      ru: Гладченко Максим
+      en: Gladchenko Maxim
+    country:
+      ru: Казахстан
+      en: Kazakhstan
     problems1:
       - 79
       - 10
@@ -39,10 +45,12 @@ results:
       - 100
       - 60
     place: "3"
-  - participant_ru: Стансиу Валентин
-    participant_en: Stanciu Valentin
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Стансиу Валентин
+      en: Stanciu Valentin
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 54
       - 0
@@ -52,10 +60,12 @@ results:
       - 95
       - 50
     place: "4"
-  - participant_ru: Садыков Жомарт
-    participant_en: Sadykov Zhomart
-    country_ru: Казахстан
-    country_en: Kazakstan
+  - participant:
+      ru: Садыков Жомарт
+      en: Sadykov Zhomart
+    country:
+      ru: Казахстан
+      en: Kazakstan
     problems1:
       - 87
       - 10
@@ -65,11 +75,12 @@ results:
       - 100
       - 80
     place: "5"
-  - participant_ru: Гренкин Глеб
-    participant_en: Grenkin Gleb
-    country_ru: Россия
-    country_en: Russia
-    country: Владивосток
+  - participant:
+      ru: Гренкин Глеб
+      en: Grenkin Gleb
+    country:
+      ru: Россия, Владивосток
+      en: Russia, Vladivostok
     problems1:
       - 79
       - 20
@@ -79,11 +90,12 @@ results:
       - 30
       - 40
     place: "6"
-  - participant_ru: Минюк Антон
-    participant_en: Minyuk Anton
-    country_ru: Россия
-    country_en: Russia
-    country: Якутск
+  - participant:
+      ru: Минюк Антон
+      en: Minyuk Anton
+    country:
+      ru: Россия, Якутск
+      en: Russia, Yakutsk
     problems1:
       - 69
       - 5
@@ -93,11 +105,12 @@ results:
       - 5
       - 85
     place: "7"
-  - participant_ru: Жуплев Антон
-    participant_en: Juplev Anton
-    country_ru: Россия
-    country_en: Russia
-    country: Владивосток
+  - participant:
+      ru: Жуплев Антон
+      en: Juplev Anton
+    country:
+      ru: Россия, Владивосток
+      en: Russia, Vladivostok
     problems1:
       - 67
       - 25
@@ -107,10 +120,12 @@ results:
       - 100
       - 40
     place: "8"
-  - participant_ru: Старостин Петр
-    participant_en: Starostin Petr
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Старостин Петр
+      en: Starostin Petr
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 86
       - 10
@@ -120,11 +135,12 @@ results:
       - 5
       - 60
     place: "9"
-  - participant_ru: Дьяконов Айтал
-    participant_en: Dyakonov Aytal
-    country_ru: Россия
-    country_en: Russia
-    region: Ленский край
+  - participant:
+      ru: Дьяконов Айтал
+      en: Dyakonov Aytal
+    country:
+      ru: Россия (Ленский край)
+      en: Russia (Lenskiy kray)
     problems1:
       - 79
       - 0
@@ -134,11 +150,12 @@ results:
       - 10
       - 20
     place: "10"
-  - participant_ru: Винокуров Павел
-    participant_en: Vinokurov Pavel
-    country_ru: Россия
-    country_en: Russia
-    country: Якутск
+  - participant:
+      ru: Винокуров Павел
+      en: Vinokurov Pavel
+    country:
+      ru: Россия, Якутск
+      en: Russia, Yakutsk
     problems1:
       - 54
       - 25
@@ -148,10 +165,12 @@ results:
       - 30
       - 50
     place: "11"
-  - participant_ru: Ганиев Евгений
-    participant_en: Ganiev Evgeniy
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Ганиев Евгений
+      en: Ganiev Evgeniy
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 79
       - 5
@@ -161,11 +180,12 @@ results:
       - 0
       - 30
     place: "12"
-  - participant_ru: Слепцов Василий
-    participant_en: Slepcov Vasiliy
-    country_ru: Россия
-    country_en: Russia
-    region: Общество Дьо5ур
+  - participant:
+      ru: Слепцов Василий
+      en: Slepcov Vasiliy
+    country:
+      ru: Россия (Общество Дьо5ур)
+      en: Russia (Team Djoghur)
     problems1:
       - 45
       - 0
@@ -175,11 +195,12 @@ results:
       - 5
       - 85
     place: "13"
-  - participant_ru: Высоцкий Петр
-    participant_en: Visotskiy Petr
-    country_ru: Россия
-    country_en: Russia
-    region: Ленский край
+  - participant:
+      ru: Высоцкий Петр
+      en: Visotskiy Petr
+    country:
+      ru: Россия (Ленский край)
+      en: Russia (Lenskiy kray)
     problems1:
       - 39
       - 0
@@ -189,10 +210,12 @@ results:
       - 0
       - 0
     place: "14"
-  - participant_ru: Шарин Владимир
-    participant_en: Sharin Vladimir
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Шарин Владимир
+      en: Sharin Vladimir
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 72
       - 25
@@ -202,11 +225,12 @@ results:
       - 5
       - 20
     place: 15-16
-  - participant_ru: Кривогорницын Александр
-    participant_en: Krivogornitsyn Aleksandr
-    country_ru: Россия
-    country_en: Russia
-    region: Общество Дьо5ур
+  - participant:
+      ru: Кривогорницын Александр
+      en: Krivogornitsyn Aleksandr
+    country:
+      ru: Россия (Общество Дьо5ур)
+      en: Russia (Team Djoghur)
     problems1:
       - 62
       - 0
@@ -216,11 +240,12 @@ results:
       - 5
       - 50
     place: 15-16
-  - participant_ru: Лукачевская Прасковья
-    participant_en: Lukachevskaya Praskovya
-    country_ru: Россия
-    country_en: Russia
-    country: Общество Дьо5ур
+  - participant:
+      ru: Лукачевская Прасковья
+      en: Lukachevskaya Praskovya
+    country:
+      ru: Россия (Общество Дьо5ур)
+      en: Russia (Team Djoghur)
     problems1:
       - 52
       - 0
@@ -230,11 +255,12 @@ results:
       - 0
       - 50
     place: "17"
-  - participant_ru: Васильев Андрей
-    participant_en: Vasilyev Andrey
-    country_ru: Россия
-    country_en: Russia
-    city: Якутск
+  - participant:
+      ru: Васильев Андрей
+      en: Vasilyev Andrey
+    country:
+      ru: Россия, Якутск
+      en: Russia, Yakutsk
     problems1:
       - 61
       - 0
@@ -244,11 +270,12 @@ results:
       - 10
       - 20
     place: "18"
-  - participant_ru: Коротун Владислав
-    participant_en: Korotun Vladislav
-    country_ru: Россия
-    country_en: Russia
-    region: Ленский край
+  - participant:
+      ru: Коротун Владислав
+      en: Korotun Vladislav
+    country:
+      ru: Россия (Ленский край)
+      en: Russia (Lenskiy kray)
     problems1:
       - 17
       - 0
@@ -258,10 +285,12 @@ results:
       - 5
       - 30
     place: "19"
-  - participant_ru: Менг Фанлей
-    participant_en: Meng Fanlei
-    country_ru: Китай
-    country_en: China
+  - participant:
+      ru: Менг Фанлей
+      en: Meng Fanlei
+    country:
+      ru: Китай
+      en: China
     problems1:
       - 37
       - 0
@@ -271,11 +300,12 @@ results:
       - 5
       - 0
     place: "20"
-  - participant_ru: Степанов Евгений
-    participant_en: Stepanov Evgeniy
-    country_ru: Россия
-    country_en: Russia
-    city: Иркутск
+  - participant:
+      ru: Степанов Евгений
+      en: Stepanov Evgeniy
+    country:
+      ru: Россия, Иркутск
+      en: Russia, Irkutsk
     problems1:
       - 39
       - 0

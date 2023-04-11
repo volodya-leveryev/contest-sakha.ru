@@ -1,8 +1,10 @@
 results:
-  - participant_ru: Онческу Костин-Андрей
-    participant_en: Oncescu Costin-Andrei
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Онческу Костин-Андрей
+      en: Oncescu Costin-Andrei
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 100
@@ -14,10 +16,12 @@ results:
       - 90
       - 100
     place: 1DG
-  - participant_ru: Жалгасов Асхат
-    participant_en: Zhalgasov Askhat
-    country_ru: Казахстан
-    country_en: Kazakhstan
+  - participant:
+      ru: Жалгасов Асхат
+      en: Zhalgasov Askhat
+    country:
+      ru: Казахстан
+      en: Kazakhstan
     problems1:
       - 100
       - 100
@@ -29,10 +33,12 @@ results:
       - 95
       - 100
     place: 1DG
-  - participant_ru: Петреску Александру
-    participant_en: Petrescu Alexandru
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Петреску Александру
+      en: Petrescu Alexandru
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 100
@@ -44,10 +50,12 @@ results:
       - 90
       - 100
     place: 2DG
-  - participant_ru: Крецу Богдан-Кристиан
-    participant_en: Creţu Bogdan-Cristian
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Крецу Богдан-Кристиан
+      en: Creţu Bogdan-Cristian
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 100
@@ -59,10 +67,12 @@ results:
       - 90
       - 100
     place: 2DG
-  - participant_ru: Мекумянов Семен Леонидович
-    participant_en: Mekumyanov Semyon
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Мекумянов Семен Леонидович
+      en: Mekumyanov Semyon
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 100
@@ -74,10 +84,12 @@ results:
       - 95
       - 100
     place: 3DG
-  - participant_ru: Нурахан Арлан Жомартулы
-    participant_en: Nurakhan Arlan
-    country_ru: Казахстан
-    country_en: Kazakhstan
+  - participant:
+      ru: Нурахан Арлан Жомартулы
+      en: Nurakhan Arlan
+    country:
+      ru: Казахстан
+      en: Kazakhstan
     problems1:
       - 100
       - 100
@@ -89,10 +101,12 @@ results:
       - 95
       - 100
     place: 3DG
-  - participant_ru: Георгеску Лаура-Иоана
-    participant_en: Georgescu Laura-Ioana
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Георгеску Лаура-Иоана
+      en: Georgescu Laura-Ioana
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 100
@@ -104,10 +118,12 @@ results:
       - 35
       - 100
     place: HML
-  - participant_ru: Харсан Овидиу-Разван
-    participant_en: Harsan Ovidiu-Razvan
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Харсан Овидиу-Разван
+      en: Harsan Ovidiu-Razvan
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 100
@@ -119,10 +135,12 @@ results:
       - 30
       - 100
     place: HML
-  - participant_ru: Максимов Алексей Николаевич
-    participant_en: Maksimov Alexey
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Максимов Алексей Николаевич
+      en: Maksimov Alexey
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 100
@@ -134,10 +152,12 @@ results:
       - 0
       - 100
     place: HML
-  - participant_ru: Хайруллин Асхат Зиннурович
-    participant_en: Khairullin Askhat
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Хайруллин Асхат Зиннурович
+      en: Khairullin Askhat
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 100
@@ -149,10 +169,12 @@ results:
       - 45
       - 0
     place: SA
-  - participant_ru: Гуринов Илья Петрович
-    participant_en: Gurinov Iliya
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Гуринов Илья Петрович
+      en: Gurinov Iliya
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 0
@@ -164,10 +186,12 @@ results:
       - 15
       - 100
     place: ""
-  - participant_ru: Гаврильев Рубен Александрович
-    participant_en: Gavriliev Ruben
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Гаврильев Рубен Александрович
+      en: Gavriliev Ruben
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 0
@@ -179,10 +203,12 @@ results:
       - 0
       - 100
     place: ""
-  - participant_ru: Касымов Ернур
-    participant_en: Kassymov Yernur
-    country_ru: Казахстан
-    country_en: Kazakhstan
+  - participant:
+      ru: Касымов Ернур
+      en: Kassymov Yernur
+    country:
+      ru: Казахстан
+      en: Kazakhstan
     problems1:
       - 100
       - 100
@@ -194,10 +220,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Гуринов Айтал Иванович
-    participant_en: Gurinov Aytal
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Гуринов Айтал Иванович
+      en: Gurinov Aytal
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 15
@@ -209,10 +237,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Булатов Василий Алквиадович
-    participant_en: Bulatov Vasiliy
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Булатов Василий Алквиадович
+      en: Bulatov Vasiliy
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 0
@@ -224,10 +254,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Осипова Валентина Иннокентьевна
-    participant_en: Osipova Valentina
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Осипова Валентина Иннокентьевна
+      en: Osipova Valentina
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 0
@@ -239,10 +271,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Канатников Егор Николаевич
-    participant_en: Kanatnikov Egor
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Канатников Егор Николаевич
+      en: Kanatnikov Egor
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 0
@@ -254,10 +288,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Шинкарев Валентин Романович
-    participant_en: Shinkarev Valentin
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Шинкарев Валентин Романович
+      en: Shinkarev Valentin
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 0
@@ -269,10 +305,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Касым Ернур
-    participant_en: Kassym Ernur
-    country_ru: Казахстан
-    country_en: Kazakhstan
+  - participant:
+      ru: Касым Ернур
+      en: Kassym Ernur
+    country:
+      ru: Казахстан
+      en: Kazakhstan
     problems1:
       - 0
       - 0
@@ -284,10 +322,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Павлов Степан Павлович
-    participant_en: Pavlov Stepan
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Павлов Степан Павлович
+      en: Pavlov Stepan
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 0
       - 0

@@ -1,8 +1,10 @@
 results:
-  - participant_ru: Тинка Матей
-    participant_en: Tinca Matei
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Тинка Матей
+      en: Tinca Matei
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 100
@@ -14,10 +16,12 @@ results:
       - 24
       - 100
     place: 1DG
-  - participant_ru: Мусат Тибериу Иоан
-    participant_en: Mușat Tiberiu Ioan
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Мусат Тибериу Иоан
+      en: Mușat Tiberiu Ioan
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 100
@@ -29,10 +33,12 @@ results:
       - 100
       - 24
     place: 1DG
-  - participant_ru: Вонг Сви Чонг, Дейв
-    participant_en: Wong Swee Chong, Dave
-    country_ru: Сингапур
-    country_en: "Singapore "
+  - participant:
+      ru: Вонг Сви Чонг, Дейв
+      en: Wong Swee Chong, Dave
+    country:
+      ru: Сингапур
+      en: Singapore
     problems1:
       - 100
       - 100
@@ -44,10 +50,12 @@ results:
       - 100
       - 24
     place: 1DG
-  - participant_ru: Поповичи Роберт-Адриан
-    participant_en: Popovici Robert-Adrian
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Поповичи Роберт-Адриан
+      en: Popovici Robert-Adrian
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 100
@@ -59,10 +67,12 @@ results:
       - 100
       - 24
     place: 2DG
-  - participant_ru: Серитан Лука
-    participant_en: Seritan Luca
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Серитан Лука
+      en: Seritan Luca
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 100
@@ -74,10 +84,12 @@ results:
       - 30
       - 24
     place: 2DG
-  - participant_ru: Донцию Мирча
-    participant_en: Donciu Mircea
-    country_ru: Румыния
-    country_en: Romania
+  - participant:
+      ru: Донцию Мирча
+      en: Donciu Mircea
+    country:
+      ru: Румыния
+      en: Romania
     problems1:
       - 100
       - 70
@@ -89,10 +101,12 @@ results:
       - 100
       - 24
     place: 2DG
-  - participant_ru: Турсунбай Динмукхамед
-    participant_en: Tursynbay Dinmukhamed
-    country_ru: Казахстан
-    country_en: Kazakhstan
+  - participant:
+      ru: Турсунбай Динмукхамед
+      en: Tursynbay Dinmukhamed
+    country:
+      ru: Казахстан
+      en: Kazakhstan
     problems1:
       - 100
       - 50
@@ -104,10 +118,12 @@ results:
       - 100
       - 11
     place: 2DG
-  - participant_ru: Булатов Василий
-    participant_en: Bulatov Vasilii
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Булатов Василий
+      en: Bulatov Vasilii
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 100
@@ -119,10 +135,12 @@ results:
       - 0
       - 11
     place: 3DG
-  - participant_ru: Семенов Никита
-    participant_en: Semenov Nikita
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Семенов Никита
+      en: Semenov Nikita
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 100
@@ -134,10 +152,12 @@ results:
       - 30
       - 11
     place: 3DG
-  - participant_ru: Степанов Дмитрий
-    participant_en: Stepanov Dmitrii
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Степанов Дмитрий
+      en: Stepanov Dmitrii
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 70
@@ -149,10 +169,12 @@ results:
       - 100
       - 0
     place: 3DG
-  - participant_ru: Зуков Тимур
-    participant_en: Zykov Timur
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Зуков Тимур
+      en: Zykov Timur
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 50
@@ -164,10 +186,12 @@ results:
       - 0
       - 0
     place: 3DG
-  - participant_ru: Петров Петар Георгиев
-    participant_en: Petrov Petar Georgiev
-    country_ru: Булгария
-    country_en: Bulgaria
+  - participant:
+      ru: Петров Петар Георгиев
+      en: Petrov Petar Georgiev
+    country:
+      ru: Булгария
+      en: Bulgaria
     problems1:
       - 100
       - 70
@@ -179,10 +203,12 @@ results:
       - 30
       - 0
     place: HM
-  - participant_ru: Тсупандин Николай
-    participant_en: Tsypandin Nikolai
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Тсупандин Николай
+      en: Tsypandin Nikolai
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 30
@@ -194,10 +220,12 @@ results:
       - 0
       - 0
     place: HM
-  - participant_ru: Данешара Алиреза Хоссеин
-    participant_en: Daneshara Alireza Hossein
-    country_ru: Иран
-    country_en: Iran
+  - participant:
+      ru: Данешара Алиреза Хоссеин
+      en: Daneshara Alireza Hossein
+    country:
+      ru: Иран
+      en: Iran
     problems1:
       - 100
       - 30
@@ -209,10 +237,12 @@ results:
       - 0
       - 11
     place: HM
-  - participant_ru: Мукхаметкарим Кайюрлий
-    participant_en: Mukhametkarim Kaiyrly
-    country_ru: Казахстан
-    country_en: Kazakhstan
+  - participant:
+      ru: Мукхаметкарим Кайюрлий
+      en: Mukhametkarim Kaiyrly
+    country:
+      ru: Казахстан
+      en: Kazakhstan
     problems1:
       - 100
       - 30
@@ -224,10 +254,12 @@ results:
       - 30
       - 80
     place: ""
-  - participant_ru: Петрова Маргарита
-    participant_en: Petrova Margarita
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Петрова Маргарита
+      en: Petrova Margarita
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 10
       - 50
@@ -239,10 +271,12 @@ results:
       - 30
       - 0
     place: SA
-  - participant_ru: Крыликов Максим
-    participant_en: Krylykov Maksim
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Крыликов Максим
+      en: Krylykov Maksim
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 30
@@ -254,10 +288,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Мургочи Влад
-    participant_en: Murgoci Vlad
-    country_ru: Румания
-    country_en: Romania
+  - participant:
+      ru: Мургочи Влад
+      en: Murgoci Vlad
+    country:
+      ru: Румания
+      en: Romania
     problems1:
       - 100
       - 30
@@ -269,10 +305,12 @@ results:
       - 30
       - 0
     place: ""
-  - participant_ru: Баданов Чангис
-    participant_en: Badanov Chingis
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Баданов Чангис
+      en: Badanov Chingis
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 30
@@ -284,10 +322,12 @@ results:
       - 30
       - 0
     place: ""
-  - participant_ru: Захаров Айтал
-    participant_en: Zakharov Aital
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Захаров Айтал
+      en: Zakharov Aital
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 50
@@ -299,10 +339,12 @@ results:
       - 30
       - 0
     place: SA
-  - participant_ru: Князев Алексей
-    participant_en: Knyazhev Aleksey
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Князев Алексей
+      en: Knyazhev Aleksey
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 0
@@ -314,10 +356,12 @@ results:
       - 30
       - 0
     place: ""
-  - participant_ru: Мохаммади Мохаммади Фатмех Хади
-    participant_en: Mohammadi Mohammadi Fatemeh Hadi
-    country_ru: Иран
-    country_en: Iran
+  - participant:
+      ru: Мохаммади Мохаммади Фатмех Хади
+      en: Mohammadi Mohammadi Fatemeh Hadi
+    country:
+      ru: Иран
+      en: Iran
     problems1:
       - 100
       - 30
@@ -329,10 +373,12 @@ results:
       - 0
       - 0
     place: SA
-  - participant_ru: Павловскй Владислав
-    participant_en: Pavlovskii Vladislav
-    country_ru: Россия
-    country_en: Russia
+  - participant:
+      ru: Павловскй Владислав
+      en: Pavlovskii Vladislav
+    country:
+      ru: Россия
+      en: Russia
     problems1:
       - 100
       - 0
@@ -344,10 +390,12 @@ results:
       - 0
       - 0
     place: ""
-  - participant_ru: Фалсафи Ариан Алиреза
-    participant_en: Falsafi Arian Alireza
-    country_ru: Иран
-    country_en: Iran
+  - participant:
+      ru: Фалсафи Ариан Алиреза
+      en: Falsafi Arian Alireza
+    country:
+      ru: Иран
+      en: Iran
     problems1:
       - 40
       - 0

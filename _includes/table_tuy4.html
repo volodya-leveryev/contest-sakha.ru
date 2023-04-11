@@ -1,0 +1,59 @@
+
+<table class="table table-bordered">
+    <thead>
+      <tr>
+        <th rowspan="2">
+          {% if include.lang == "ru" %}Участник{% endif %}
+          {% if include.lang == "en" %}Participant{% endif %}
+        </th>
+        <th rowspan="2">
+          {% if include.lang == "ru" %}Страна{% endif %}
+          {% if include.lang == "en" %}Country{% endif %}
+        </th>
+        <th colspan="4">
+          {% if include.lang == "ru" %}День 1{% endif %}
+          {% if include.lang == "en" %}Day 1{% endif %}
+        </th>
+        <th colspan="4">
+          {% if include.lang == "ru" %}День 2{% endif %}
+          {% if include.lang == "en" %}Day 2{% endif %}
+        </th>
+        <th rowspan="2">
+          {% if include.lang == "ru" %}Всего{% endif %}
+          {% if include.lang == "en" %}Total{% endif %}
+        </th>
+        <th rowspan="2">
+          {% if include.lang == "ru" %}Место{% endif %}
+          {% if include.lang == "en" %}Place{% endif %}
+        </th>
+      </tr>
+      <tr>
+        <th>A</th>
+        <th>B</th>
+        <th>C</th>
+        <th>D</th>
+        <th>E</th>
+        <th>F</th>
+        <th>G</th>
+        <th>H</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for res in include.results -%}
+      <tr>
+        <td>{{ res.participant[include.lang] }}</td>
+        <td>{{ res.country[include.lang] }}</td>
+        <td>{{ res.problems1[0] }}</td>
+        <td>{{ res.problems1[1] }}</td>
+        <td>{{ res.problems1[2] }}</td>
+        <td>{{ res.problems1[3] }}</td>
+        <td>{{ res.problems2[0] }}</td>
+        <td>{{ res.problems2[1] }}</td>
+        <td>{{ res.problems2[2] }}</td>
+        <td>{{ res.problems2[3] }}</td>
+        <td>{{ res.problems1[0] | plus: res.problems1[1] | plus: res.problems1[2] | plus: res.problems1[3] | plus: res.problems2[0] | plus: res.problems2[1] | plus: res.problems2[2] | plus: res.problems2[3] }}</td>
+        <td>{{ res.place }}</td>
+      </tr>
+      {%- endfor %}
+    </tbody>
+  </table>
