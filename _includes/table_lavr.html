@@ -1,0 +1,35 @@
+
+<table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Участник</th>
+        <th>Команда</th>
+        <th>Статус</th>
+        <th>A</th>
+        <th>B</th>
+        <th>C</th>
+        <th>D</th>
+        <th>E</th>
+        <th>F</th>
+        <th>Всего</th>
+        <th>Место</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for res in include.results -%}
+      <tr>
+        <td>{{ res.surname }} {{ res.name }} {{ res.patronymic }}</td>
+        <td>{{ res.team }}</td>
+        <td>{{ res.status }}</td>
+        <td>{{ res.problems[0] }}</td>
+        <td>{{ res.problems[1] }}</td>
+        <td>{{ res.problems[2] }}</td>
+        <td>{{ res.problems[3] }}</td>
+        <td>{{ res.problems[4] }}</td>
+        <td>{{ res.problems[5] }}</td>
+        <td>{{ res.total }}</td>
+        <td>{{ res.place }}</td>
+      </tr>
+      {%- endfor %}
+    </tbody>
+  </table>
