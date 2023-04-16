@@ -2,18 +2,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-th, td {
-    border-color: darkgrey;
-    border-style: solid;
-    border-width: 1px;
-}
-
-td.center {
-    text-align: center;
-}
-
-td.right {
-    text-align: right;
+@media all and (min-width: 960px) {
+    body {
+        margin-left: auto;
+        margin-right: auto;
+        width:950px;
+    }
 }
 
 a:link, a:visited {
@@ -24,4 +18,17 @@ a:link, a:visited {
 a:hover {
     color: blue;
     text-decoration: underline;
+}
+th, td {
+    border-color: darkgrey;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
 }
