@@ -10,7 +10,12 @@
   <body>
     <nav>
       <span>
-        <a href="{{ '/' | relative_url }}">Home</a>
+        {%- if page.lang == 'ru' %}
+        <a href="{{ '/' | relative_url }}">Главная</a>
+        {% endif -%}
+        {%- if page.lang == 'en' %}
+        <a href="{{ '/en/' | relative_url }}">Home</a>
+        {% endif -%}
       </span>
       {%- assign pages=site.pages | where:"ref", page.ref | sort: 'lang' -%}
       {%- for p in pages %}
