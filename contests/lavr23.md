@@ -22,8 +22,72 @@ title: Лаврентьевские чтения 2023
 
 ## Личный зачёт
 
-{% include table_lavr_pers.html results=site.data.lavr.pers23.results %}
+<table>
+  <thead>
+    <tr>
+      <th>Участник</th>
+      <th>Команда</th>
+      <th>Статус</th>
+      <th>A</th>
+      <th>B</th>
+      <th>C</th>
+      <th>D</th>
+      <th>E</th>
+      <th>F</th>
+      <th>Всего</th>
+      <th>Место</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for res in site.data.lavr.pers23.results -%}
+    <tr>
+      <td>{{ res.surname }} {{ res.name }} {{ res.patronymic }}</td>
+      <td>{{ res.team }}</td>
+      <td>{{ res.status }}</td>
+      <td class="right">{{ res.problems[0] }}</td>
+      <td class="right">{{ res.problems[1] }}</td>
+      <td class="right">{{ res.problems[2] }}</td>
+      <td class="right">{{ res.problems[3] }}</td>
+      <td class="right">{{ res.problems[4] }}</td>
+      <td class="right">{{ res.problems[5] }}</td>
+      <td class="center">{{ res.total }}</td>
+      <td class="center">{{ res.place }}</td>
+    </tr>
+    {%- endfor %}
+  </tbody>
+</table>
 
 ## Командный зачёт
 
-{% include table_lavr_team.html results=site.data.lavr.team23.results %}
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Команда</th>
+      <th>Комментарий</th>
+      <th>A</th>
+      <th>B</th>
+      <th>C</th>
+      <th>D</th>
+      <th>E</th>
+      <th>F</th>
+      <th>Всего</th>
+      <th>Место</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for res in site.data.lavr.team23.results -%}
+    <tr>
+      <td>{{ res.name }}</td>
+      <td>{{ res.comment }}</td>
+      <td class="right">{{ res.problems[0] }}</td>
+      <td class="right">{{ res.problems[1] }}</td>
+      <td class="right">{{ res.problems[2] }}</td>
+      <td class="right">{{ res.problems[3] }}</td>
+      <td class="right">{{ res.problems[4] }}</td>
+      <td class="right">{{ res.problems[5] }}</td>
+      <td class="center">{{ res.total }}</td>
+      <td class="center">{{ res.place }}</td>
+    </tr>
+    {%- endfor %}
+  </tbody>
+</table>

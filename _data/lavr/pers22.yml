@@ -1,0 +1,769 @@
+results:
+  - surname: Парников
+    name: Василий
+    patronymic: Васильевич
+    team: YC TYMCYY
+    status: 11 класс, Республиканский лицей-интернат
+    problems:
+      - 100
+      - 100
+      - 100
+      - 100
+      - 100
+    total: 500
+  - surname: Ефимов
+    name: Степан
+    patronymic: Сергеевич
+    team: Продам гараж
+    status: 10 класс, Республиканский лицей-интернат
+    problems:
+      - 100
+      - 100
+      - 100
+      - 75
+      - 68
+    total: 443
+  - surname: Данилов
+    name: Прокопий
+    patronymic: Карлович
+    team: ВТ
+    status: М-ВТ-20, ИМИ СВФУ
+    problems:
+      - 100
+      - 0
+      - 100
+      - 100
+      - 100
+    total: 400
+  - surname: Кривошапкин
+    name: Эдуард
+    patronymic: Алексеевич
+    team: ФТЛ
+    status: 8 класс, Физико-технический лицей им. В.П. Ларионова
+    problems:
+      - 100
+      - 0
+      - 100
+      - 100
+      - 0
+    total: 300
+  - surname: Никифоров
+    name: Дьулустан
+    patronymic: Васильевич
+    team: Валера, Никита, Дьулус
+    status: Кафедра ИТ, ИМИ СВФУ
+    problems:
+      - 100
+      - 0
+      - 100
+      - 100
+      - 0
+    total: 300
+  - surname: Семенов
+    name: Никита
+    patronymic: Сергеевич
+    team: Валера, Никита, Дьулус
+    status: Студент ФКН ВШЭ
+    problems:
+      - 100
+      - 0
+      - 0
+      - 100
+      - 100
+    total: 300
+  - surname: Обудов
+    name: Владислав
+    patronymic: Антонович
+    team: Stepbrothers
+    status: ФИИТ-20, ИМИ СВФУ
+    problems:
+      - 100
+      - 20
+      - 100
+      - 70
+      - 0
+    total: 290
+  - surname: Семёнов
+    name: Ефим
+    patronymic: Николаевич
+    team: Наше одеяло
+    status: 10 класс, Республиканский лицей-интернат
+    problems:
+      - 100
+      - 0
+      - 100
+      - 75
+      - 0
+    total: 275
+  - surname: Колодезников
+    name: Влад
+    patronymic: Юрьевич
+    team: Продам гараж
+    status: 10 класс, Республиканский лицей-интернат
+    problems:
+      - 100
+      - 0
+      - 100
+      - 55
+      - 0
+    total: 255
+  - surname: Семёнов Эрхан
+    name: Алексей
+    patronymic: Харитонович
+    team: Лапша быстрого приготовления
+    status: ИВТ-21-1, ИМИ СВФУ
+    problems:
+      - 100
+      - 0
+      - 100
+      - 40
+      - 0
+    total: 240
+  - surname: Ховров
+    name: Дмитрий
+    patronymic: Евгеньевич
+    team: Noterday
+    status: ФИИТ-19, ИМИ СВФУ
+    problems:
+      - 100
+      - 20
+      - 100
+      - 10
+      - 4
+    total: 234
+  - surname: Саввин
+    name: Антон
+    patronymic: Васильевич
+    team: ПМ-17
+    status: М-ВТ-21, ИМИ СВФУ
+    problems:
+      - 94
+      - 20
+      - 40
+      - 60
+      - 0
+    total: 214
+  - surname: Гаврильев
+    name: Валерий
+    patronymic: Валерьевич
+    team: Валера, Никита, Дьулус
+    status: Разработчик Яндекс Карты
+    problems:
+      - 100
+      - 0
+      - 100
+      - 0
+      - 0
+    total: 200
+  - surname: Гуринов
+    name: Айтал
+    patronymic: Иванови
+    team: ПМ-17
+    status: М-ВТ-21, ИМИ СВФУ
+    problems:
+      - 100
+      - 0
+      - 100
+      - 0
+      - 0
+    total: 200
+  - surname: Иванова
+    name: Милана
+    patronymic: Яновна
+    team: Noterday
+    status: ФИИТ-19, ИМИ СВФУ
+    problems:
+      - 100
+      - 0
+      - 100
+      - 0
+      - 0
+    total: 200
+  - surname: Чичигинаров
+    name: Василий
+    patronymic: Константинович
+    team: Наше одеяло
+    status: 10 класс, Республиканский лицей-интернат
+    problems:
+      - 100
+      - 0
+      - 100
+      - 0
+      - 0
+    total: 200
+  - surname: Ермаков
+    name: Сергей
+    patronymic: Николаевич
+    team: ИСА
+    status: ФИИТ-21, ИМИ СВФУ
+    problems:
+      - 94
+      - 0
+      - 100
+      - 0
+      - 0
+    total: 194
+  - surname: Романов
+    name: Уйгун
+    patronymic: Андреевич
+    team: True force
+    status: ИВТ-20-2, ИМИ СВФУ
+    problems:
+      - 94
+      - 0
+      - 100
+      - 0
+      - 0
+    total: 194
+  - surname: Алексеев
+    name: Станислав
+    patronymic: Капитонович
+    team: ПМ-17
+    status: М-НОД-21, ИМИ СВФУ
+    problems:
+      - 100
+      - 20
+      - 40
+      - 25
+      - 0
+    total: 185
+  - surname: Дмитриев
+    name: Аркадий
+    patronymic: Валериевич
+    team: Цукен
+    status: 11 класс, Республиканский лицей-интернат
+    problems:
+      - 100
+      - 0
+      - 0
+      - 85
+      - 0
+    total: 185
+  - surname: Местников
+    name: Марат
+    patronymic: Павлович
+    team: ФТЛ
+    status: 9 класс, Физико-технический лицей им. В.П. Ларионова
+    problems:
+      - 100
+      - 0
+      - 40
+      - 10
+      - 0
+    total: 150
+  - surname: Николаева
+    name: Мария
+    patronymic: Карловна
+    team: ГКГ
+    status: 11 класс, Городская классическая гимназия
+    problems:
+      - 100
+      - 0
+      - 40
+      - 10
+      - 0
+    total: 150
+  - surname: Андросов
+    name: Максим
+    patronymic: Семенович
+    team: Stepbrothers
+    status: ФИИТ-20, ИМИ СВФУ
+    problems:
+      - 100
+      - 40
+      - 0
+      - 0
+      - 0
+    total: 140
+  - surname: Семенов
+    name: Артем
+    patronymic: Герасимович
+    team: Семнашка
+    status: 9 класс, СОШ №17
+    problems:
+      - 100
+      - 0
+      - 0
+      - 40
+      - 0
+    total: 140
+  - surname: Дьячковский
+    name: Альберт
+    patronymic: Федорович
+    team: Айыы Кыьата
+    status: 11 класс, Национальная гимназия "Айыы Кыьата"
+    problems:
+      - 100
+      - 20
+      - 0
+      - 10
+      - 0
+    total: 130
+  - surname: Платонова
+    name: Светлана
+    patronymic: Сергеевна
+    team: Вчерашние
+    status: ИВТ-20-2, ИМИ СВФУ
+    problems:
+      - 100
+      - 0
+      - 0
+      - 0
+      - 28
+    total: 128
+  - surname: Курчатов
+    name: Артемий
+    patronymic: Николаевич
+    team: Семнашка
+    status: 10 класс, СОШ №17
+    problems:
+      - 100
+      - 0
+      - 0
+      - 25
+      - 0
+    total: 125
+  - surname: Оконешникова
+    name: Таисия
+    patronymic: Васильевна
+    team: Айыы Кыьата
+    status: 9 класс, Национальная гимназия "Айыы Кыьата"
+    problems:
+      - 91
+      - 0
+      - 0
+      - 25
+      - 0
+    total: 116
+  - surname: Акимов
+    name: Мир
+    patronymic: Мирович
+    team: Цукен
+    status: 10 класс, Республиканский лицей-интернат
+    problems:
+      - 100
+      - 0
+      - 0
+      - 10
+      - 4
+    total: 114
+  - surname: Власов
+    name: Ян
+    patronymic: Андреевич
+    team: YC TYMCYY
+    status: 11 класс, Республиканский лицей-интернат
+    problems:
+      - 100
+      - 0
+      - 0
+      - 10
+      - 0
+    total: 110
+  - surname: Еремисов
+    name: Айсен
+    patronymic: Евгеньевич
+    team: Que pro
+    status: 10 класс, Республиканский лицей-интернат
+    problems:
+      - 100
+      - 0
+      - 0
+      - 10
+      - 0
+    total: 110
+  - surname: Харлампьев
+    name: Ренат
+    patronymic: Игоревич
+    team: Наше одеяло
+    status: 10 класс, Республиканский лицей-интернат
+    problems:
+      - 94
+      - 0
+      - 0
+      - 10
+      - 4
+    total: 108
+  - surname: Сивцева
+    name: Анна
+    patronymic: Борисовна
+    team: Холодные люди
+    status: 10 класс, Республиканский лицей-интернат
+    problems:
+      - 100
+      - 0
+      - 0
+      - 5
+      - 0
+    total: 105
+  - surname: Фролова
+    name: Ксения
+    patronymic: Георгиевна
+    team: Цукен
+    status: 10 класс, Республиканский лицей-интернат
+    problems:
+      - 27
+      - 20
+      - 0
+      - 55
+      - 0
+    total: 102
+  - surname: Дмитриева
+    name: Александра
+    patronymic: Степановна
+    team: ФТЛ
+    status: 8 класс, Физико-технический лицей им. В.П. Ларионова
+    problems:
+      - 100
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 100
+  - surname: Иванов
+    name: Виктор
+    patronymic: Алдарович
+    team: True force
+    status: ИВТ-20-2, ИМИ СВФУ
+    problems:
+      - 0
+      - 0
+      - 100
+      - 0
+      - 0
+    total: 100
+  - surname: Миндаев
+    name: Дамир
+    patronymic: Александрович
+    team: Продам гараж
+    status: 10 класс, Республиканский лицей-интернат
+    problems:
+      - 100
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 100
+  - surname: Решетников
+    name: Ньургун
+    patronymic: Петрович
+    team: РЛИ-8
+    status: 8 класс, Республиканский лицей-интернат
+    problems:
+      - 100
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 100
+  - surname: Чомчоев
+    name: Андрей
+    patronymic: Игнатьевич
+    team: Вчерашние
+    status: ФИИТ-21, ИМИ СВФУ
+    problems:
+      - 100
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 100
+  - surname: Саввинов
+    name: Олег
+    patronymic: Сергеевич
+    team: YC TYMCYY
+    status: 11 класс, Республиканский лицей-интернат
+    problems:
+      - 97
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 97
+  - surname: Казак
+    name: Иван
+    patronymic: Николаевич
+    team: ИСА
+    status: ФИИТ-21, ИМИ СВФУ
+    problems:
+      - 94
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 94
+  - surname: Ядрихинский
+    name: Христофор
+    patronymic: Васильевич
+    team: Черепаха
+    status: Аспирант, ИМИ СВФУ
+    problems:
+      - 94
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 94
+  - surname: Гаврильев
+    name: Федор
+    patronymic: Афанасьевич
+    team: Stepbrothers
+    status: ФИИТ-20, ИМИ СВФУ
+    problems:
+      - 0
+      - 20
+      - 0
+      - 55
+      - 0
+    total: 75
+  - surname: Ксенофонтов
+    name: Эдгард
+    patronymic: Эрнстович
+    team: Прикольные ребята
+    status: ИВТ-20-1, ИМИ СВФУ
+    problems:
+      - 21
+      - 0
+      - 0
+      - 10
+      - 0
+    total: 31
+  - surname: Николаев
+    name: Василий
+    patronymic: Иннокентьевич
+    team: Холодные люди
+    status: 10 класс, Республиканский лицей-интернат
+    problems:
+      - 30
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 30
+  - surname: Егорова
+    name: Диана
+    patronymic: Владимировна
+    team: Noterday
+    status: ФАРМ-18, МИ СВФУ
+    problems:
+      - 24
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 24
+  - surname: Ипполитов
+    name: Евгений
+    patronymic: Евгеньевич
+    team: True force
+    status: ИВТ-20-2, ИМИ СВФУ
+    problems:
+      - 24
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 24
+  - surname: Андреев
+    name: Арсен
+    patronymic: Михайлович
+    team: Que pro
+    status: 10 класс, Республиканский лицей-интернат
+    problems:
+      - 21
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 21
+  - surname: Горохов
+    name: Владимир
+    patronymic: Октавианович
+    team: Вчерашние
+    status: ФИИТ-21, ИМИ СВФУ
+    problems:
+      - 21
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 21
+  - surname: Кириллина
+    name: Сардаана
+    patronymic: Викторовна
+    team: РЛИ-8
+    status: 8 класс, Республиканский лицей-интернат
+    problems:
+      - 21
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 21
+  - surname: Федорова
+    name: Сайаана
+    patronymic: Сергеевна
+    team: Холодные люди
+    status: 10 класс, Республиканский лицей-интернат
+    problems:
+      - 21
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 21
+  - surname: Ефимов
+    name: Алексей
+    patronymic: Aлексеевич
+    team: Прикольные ребята
+    status: ИВТ-20-1, ИМИ СВФУ
+    problems:
+      - 18
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 18
+  - surname: Миндаев
+    name: Эльдар
+    patronymic: Александрович
+    team: РЛИ-8
+    status: 8 класс, Республиканский лицей-интернат
+    problems:
+      - 15
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 15
+  - surname: Васильев
+    name: Максим
+    patronymic: Яковлевич
+    team: Черепаха
+    status: 9 класс, СОШ №26
+    problems:
+      - 9
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 9
+  - surname: Слепцова
+    name: Айыына
+    patronymic: Афанасьевна
+    team: ИСА
+    status: ФИИТ-21, ИМИ СВФУ
+    problems:
+      - 9
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 9
+  - surname: Торговкин
+    name: Андрей
+    patronymic: Викторович
+    team: Лапша быстрого приготовления
+    status: ФИИТ-21, ИМИ СВФУ
+    problems:
+      - 9
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 9
+  - surname: Никифоров
+    name: Арсен
+    patronymic: Германович
+    team: Anarchy Council
+    status: ФИИТ-21, ИМИ СВФУ
+    problems:
+      - 6
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 6
+  - surname: Былгаева
+    name: Марина
+    patronymic: Афанасьевна
+    team: ГКГ
+    status: 10 класс, Городская классическая гимназия
+    problems:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 0
+  - surname: Данилова
+    name: Любовь
+    patronymic: Михайловна
+    team: Прикольные ребята
+    status: ИВТ-20-1, ИМИ СВФУ
+    problems:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 0
+  - surname: Иванов
+    name: Максим
+    patronymic: Максимович
+    team: Айыы Кыьата
+    status: 11 класс, Национальная гимназия "Айыы Кыьата"
+    problems:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 0
+  - surname: Малышев
+    name: Владислав
+    patronymic: Егорович
+    team: Лапша быстрого приготовления
+    status: ФИИТ-21, ИМИ СВФУ
+    problems:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 0
+  - surname: Слепцов
+    name: Антон
+    patronymic: Афанасьевич
+    team: Anarchy Council
+    status: ФИИТ-21, ИМИ СВФУ
+    problems:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 0
+  - surname: Солопов
+    name: Мирон
+    patronymic: Дмитриевич
+    team: Семнашка
+    status: 11 класс, СОШ №17
+    problems:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 0
+  - surname: Сутаков
+    name: Никита
+    patronymic: Игоревич
+    team: Anarchy Council
+    status: ФИИТ-21, ИМИ СВФУ
+    problems:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+    total: 0
