@@ -64,7 +64,7 @@ results:
       - 200
       - 0
     total: 570
-    place: 7
+    place: 6
   - name: 501
     comment: Студенты СВФУ ИМИ (ИВТ-20 и ПМИ-21)
     problems:
@@ -75,4 +75,4 @@ results:
       - 160
       - 98
     total: 368
-    place: 8
+    place: 7
