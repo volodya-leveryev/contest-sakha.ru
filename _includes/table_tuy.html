@@ -1,0 +1,56 @@
+<div style="overflow-x: auto">
+  <table>
+    <thead>
+      <tr>
+        <th rowspan="2">
+          {% if include.lang == "ru" %}Участник{% endif %}
+          {% if include.lang == "en" %}Participant{% endif %}
+        </th>
+        <th rowspan="2">
+          {% if include.lang == "ru" %}Страна{% endif %}
+          {% if include.lang == "en" %}Country{% endif %}
+        </th>
+        <th colspan="5">
+          {% if include.lang == "ru" %}День 1{% endif %}
+          {% if include.lang == "en" %}Day 1{% endif %}
+        </th>
+        <th colspan="5">
+          {% if include.lang == "ru" %}День 2{% endif %}
+          {% if include.lang == "en" %}Day 2{% endif %}
+        </th>
+        <th rowspan="2">
+          {% if include.lang == "ru" %}Всего{% endif %}
+          {% if include.lang == "en" %}Total{% endif %}
+        </th>
+        <th rowspan="2">
+          {% if include.lang == "ru" %}Место{% endif %}
+          {% if include.lang == "en" %}Place{% endif %}
+        </th>
+      </tr>
+      <tr>
+        {% for p in include.problems1 -%}
+        <th>{{ p }}</th>
+        {%- endfor %}
+        {% for p in include.problems2 -%}
+        <th>{{ p }}</th>
+        {%- endfor %}
+      </tr>
+    </thead>
+    <tbody>
+      {% for res in include.results -%}
+      <tr>
+        <td>{{ res.participant[include.lang] }}</td>
+        <td>{{ res.country[include.lang] }}</td>
+        {% for p in include.problems1 -%}
+        <td class="right">{{ res.problems1[p] }}</td>
+        {%- endfor %}
+        {% for p in include.problems2 -%}
+        <td class="right">{{ res.problems2[p] }}</td>
+        {%- endfor %}
+        <td class="center">{{ res.total }}</td>
+        <td class="center">{{ res.place }}</td>
+      </tr>
+      {%- endfor %}
+    </tbody>
+  </table>
+</div>

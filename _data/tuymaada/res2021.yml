@@ -1,0 +1,1012 @@
+results:
+  - participant:
+      ru: Илие Даниель Апостол
+      en: Ilie Daniel Apostol
+    team: "'Tudor Vianu' National College of Computer Science"
+    country:
+      ru: Румыния
+      en: Romania
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 100
+      E: 100
+    problems2:
+      F: 100
+      G: 100
+      H: 100
+      I: 100
+      J: 100
+    total: 1000
+    place: 1DG, HML
+
+  - participant:
+      ru: Таймас Корганбайев
+      en: Taimas Korganbayev
+    team: Almaty city
+    country:
+      ru: Казахстан
+      en: Kazakhstan
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 100
+      E: 100
+    problems2:
+      F: 100
+      G: 20
+      H: 92
+      I: 100
+      J: 100
+    total: 912
+    place: 1DG, HML
+
+  - participant:
+      ru: Алтаир Ашуров
+      en: Altair Ashurov
+    team: AOO 'Nazarbayev Intellectual School'
+    country:
+      ru: Казахстан
+      en: Kazakhstan
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 100
+      E: 50
+    problems2:
+      F: 100
+      G: 20
+      H: 84
+      I: 100
+      J: 100
+    total: 854
+    place: 1DG
+
+  - participant:
+      ru: Снг Джеймс (Сан Джие)
+      en: Sng James (Sun Jie)
+    team: NUS High School of Mathematics and Science
+    country:
+      ru: Сингапур
+      en: Singapore
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 100
+      E: 100
+    problems2:
+      F: 100
+      G: 20
+      H: 0
+      I: 100
+      J: 100
+    total: 820
+    place: 2DG
+
+  - participant:
+      ru: Тюдор Иван
+      en: Tudor Ivan
+    team: "'Tudor Vianu' National College of Computer Science"
+    country:
+      ru: Румыния
+      en: Romania
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 100
+      E: 0
+    problems2:
+      F: 100
+      G: 100
+      H: 16
+      I: 100
+      J: 100
+    total: 816
+    place: 2DG
+
+  - participant:
+      ru: Мукхаммедариф Сакхмолдин
+      en: Mukhammadarif Sakhmoldin
+    team: AOO 'Nazarbayev Intellectual School'
+    country:
+      ru: Казахстан
+      en: Kazakhstan 
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 100
+      E: 20
+    problems2:
+      F: 100
+      G: 20
+      H: 72
+      I: 100
+      J: 100
+    total: 812
+    place: 2DG
+
+  - participant:
+      ru: Карол Лука Гасан
+      en: Carol Luca Gasan
+    team: Saint Sava National College
+    country:
+      ru: Румыния
+      en: Romania 
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 100
+      E: 20
+    problems2:
+      F: 100
+      G: 20
+      H: 60
+      I: 100
+      J: 100
+    total: 800
+    place: 2DG
+
+  - participant:
+      ru: Флавию-Кристиан Верде
+      en: Flaviu-Cristian Verde
+    team: "'Tudor Vianu' National College of Computer Science"
+    country:
+      ru: Румыния
+      en: Romania
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 100
+      E: 20
+    problems2:
+      F: 100
+      G: 20
+      H: 36
+      I: 100
+      J: 100
+    total: 776
+    place: 2DG
+
+  - participant:
+      ru: Стефан Попа
+      en: Stefan Popa
+    team: "'Tudor Vianu' National College of Computer Science"
+    country:
+      ru: Румыния
+      en: Romania
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 100
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 40
+      I: 100
+      J: 87
+    total: 747
+    place: 2DG
+
+  - participant:
+      ru: Рамазан Пердебай
+      en: Ramazan Perdebai
+    team: Karaganda region
+    country:
+      ru: Казахстан
+      en: Kazakhstan
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 100
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 68
+      I: 100
+      J: 58
+    total: 746
+    place: 2DG
+
+  - participant:
+      ru: Никита Барыкин
+      en: Nikita Barykin
+    team: SSC NSU (Physics and Mathematics School at Novosibirsk State University)
+    country:
+      ru: Россия
+      en: Russia
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 100
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 56
+      I: 100
+      J: 58
+    total: 734
+    place: 2DG
+
+  - participant:
+      ru: Арсен Мужиков
+      en: Arsen Muzhikov
+    team: NJSC 'Republican Physics and Mathematics School' Nur-Sultan city
+    country:
+      ru: Казахстан
+      en: Kazakhstan
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 100
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 0
+      I: 100
+      J: 100
+    total: 720
+    place: 2DG
+
+  - participant:
+      ru: Каньюш Мукхамедкарим
+      en: Kanysh Mukhamedkarim
+    team: East Kazakhstan Region
+    country:
+      ru: Казахстан
+      en: Kazakhstan
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 80
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 0
+      I: 100
+      J: 100
+    total: 700
+    place: 2DG
+
+  - participant:
+      ru: Динмукхамед Оралкханов
+      en: Dinmukhamed Oralkhanov
+    team: East Kazakhstan Region
+    country:
+      ru: Казахстан
+      en: Kazakhstan 
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 60
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 0
+      I: 100
+      J: 100
+    total: 680
+    place: 3DG
+
+  - participant:
+      ru: Егор Шевченко
+      en: Egor Shevchenko
+    team: SSC KSU ('IT-lyceum' of Kazan Federal University)
+    country:
+      ru: Россия
+      en: Russia
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 60
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 0
+      I: 100
+      J: 100
+    total: 680
+    place: 3DG
+
+  - participant:
+      ru: Нурстан Дуисенглиев
+      en: Nurstan Duisengaliyev
+    team: Almaty city
+    country:
+      ru: Казахстан
+      en: Kazakhstan
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 60
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 0
+      I: 100
+      J: 100
+    total: 680
+    place: 3DG
+
+  - participant:
+      ru: Имран Турганов
+      en: Imran Turganov
+    team: NJSC 'Republican Physics and Mathematics School', Almaty city
+    country:
+      ru: Казахстан
+      en: Kazakhstan
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 60
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 40
+      I: 30
+      J: 100
+    total: 650
+    place: 3DG
+
+  - participant:
+      ru: Джосеф Оливер Лим
+      en: Joseph Oliver Lim
+    team: Wardaya College
+    country:
+      ru: Индонезия
+      en: Indonesia
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 20
+      E: 0
+    problems2:
+      F: 100
+      G: 0
+      H: 28
+      I: 100
+      J: 100
+    total: 648
+    place: 3DG
+
+  - participant:
+      ru: Акрам Рахметулла
+      en: Akram Rakhmetulla
+    team: NJSC 'Republican Physics and Mathematics School' Nur-Sultan city
+    country:
+      ru: Казахстан
+      en: Kazakhstan
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 40
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 48
+      I: 70
+      J: 58
+    total: 636
+    place: 3DG
+
+  - participant:
+      ru: Тимур Зуков
+      en: Timur Zykov
+    team: 1st national team, Republic of Sakha (Yakutia)
+    country:
+      ru: Россия
+      en: Russia 
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 0
+      E: 0
+    problems2:
+      F: 100
+      G: 100
+      H: 100
+      I: 0
+      J: 0
+    total: 600
+    place: 3DG
+
+  - participant:
+      ru: Йемар Садубеков
+      en: Yemar Sadybekov
+    team: AOO 'Nazarbayev Intellectual School' 
+    country:
+      ru: Казахстан
+      en: Kazakhstan 
+    problems1:
+      A: 100
+      B: 100
+      C: 0
+      D: 40
+      E: 20
+    problems2:
+      F: 100
+      G: 50
+      H: 12
+      I: 100
+      J: 58
+    total: 580
+    place: HMLP
+
+  - participant:
+      ru: Михаил Пономарйов
+      en: Mikhail Ponomaryov
+    team: NJSC 'Republican Physics and Mathematics School' Nur-Sultan city
+    country:
+      ru: Казахстан
+      en: Kazakhstan
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 0
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 0
+      I: 100
+      J: 58
+    total: 578
+    place: HMLP
+
+  - participant:
+      ru: Маргарита Петрова
+      en: Margarita Petrova
+    team: Center for the preparation of the Olympic team at the Lyceum Boarding School No. 61
+    country:
+      ru: Россия
+      en: Russia
+    problems1:
+      A: 100
+      B: 95
+      C: 100
+      D: 0
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 0
+      I: 30
+      J: 58
+    total: 503
+    place: HMLP
+
+  - participant:
+      ru: Темирлан Жарульгамиссов
+      en: Temirlan Zharylgamyssov 
+    team: Nur-Sultan city 
+    country:
+      ru: Казахстан
+      en: Kazakhstan 
+    problems1:
+      A: 100
+      B: 90
+      C: 0
+      D: 20
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 16
+      I: 70
+      J: 87
+    total: 503
+    place: HMLP
+
+  - participant:
+      ru: Амир Нуриев
+      en: Amir Nuriyev
+    team: AOO 'Nazarbayev Intellectual School'
+    country:
+      ru: Казахстан
+      en: Kazakhstan
+    problems1:
+      A: 100
+      B: 35
+      C: 80
+      D: 0
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 0
+      I: 100
+      J: 58
+    total: 493
+    place:
+
+  - participant:
+      ru: Арман Иссайев
+      en: Arman Issayev 
+    team: Nur-Sultan city
+    country:
+      ru: Казахстан
+      en: Kazakhstan
+    problems1:
+      A: 100
+      B: 90
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 0
+      I: 80
+      J: 58
+    total: 448
+    place:
+
+  - participant:
+      ru: Ерхан Такауов
+      en: Erjan Takauov
+    team: Aktobe Region
+    country:
+      ru: Казахстан
+      en: Kazakhstan 
+    problems1:
+      A: 55
+      B: 95
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 8
+      I: 80
+      J: 87
+    total: 445
+    place:
+
+  - participant:
+      ru: Владислав Паволвский
+      en: Vladislav Pavlovsky 
+    team: 2nd national team, Republic of Sakha (Yakutia)
+    country:
+      ru: Россия
+      en: Russia
+    problems1:
+      A: 100
+      B: 0
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 0
+      I: 100
+      J: 58
+    total: 378
+    place: SP
+
+  - participant:
+      ru: Василий Парников
+      en: Vasily Parnikov 
+    team: 1st national team, Republic of Sakha (Yakutia)
+    country:
+      ru: Россия
+      en: Russia
+    problems1:
+      A: 100
+      B: 25
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 16
+      I: 40
+      J: 58
+    total: 359
+    place: SP
+
+  - participant:
+      ru: Бекнур Лес
+      en: Beknur Les
+    team: Jambyl region
+    country:
+      ru: Казахстан
+      en: Kazakhstan
+    problems1:
+      A: 100
+      B: 100
+      C: 100
+      D: 20
+      E: 0
+    problems2:
+      F: 4
+      G: 0
+      H: 0
+      I: 0
+      J: 0
+    total: 324
+    place:
+
+  - participant:
+      ru: Карим Сулейманов
+      en: Karim Suleimanov
+    team: SSC KSU ('IT-lyceum' of Kazan Federal University)
+    country:
+      ru: Россия
+      en: Russia
+    problems1:
+      A: 100
+      B: 15
+      C: 0
+      D: 20
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 0
+      I: 0
+      J: 34
+    total: 289
+    place:
+
+  - participant:
+      ru: Влад Стефан Станку
+      en: Vlad Stefan Stancu
+    team: Liceul Teoretic Național
+    country:
+      ru: Румыния
+      en: Romania
+    problems1:
+      A: 30
+      B: 35
+      C: 0
+      D: 20
+      E: 0
+    problems2:
+      F: 68
+      G: 0
+      H: 0
+      I: 0
+      J: 87
+    total: 240
+    place:
+
+  - participant:
+      ru: Ерик Паскалев
+      en: Erik Paskalev
+    team: National High School of Science and Mathematics 'Akad. Lubomir Chakalov'
+    country:
+      ru: Булгария
+      en: Bulgaria
+    problems1:
+      A: 30
+      B: 50
+      C: 20
+      D: 0
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 0
+      I: 0
+      J: 16
+    total: 236
+    place:
+
+  - participant:
+      ru: Анай Кассимкхан
+      en: Anai Kassymkhan
+    team: Pavlodar region
+    country:
+      ru: Казахстан
+      en: Kazakhstan
+    problems1:
+      A: 40
+      B: 35
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 96
+      G: 20
+      H: 0
+      I: 20
+      J: 16
+    total: 227
+    place:
+
+  - participant:
+      ru: Лена Уваровская
+      en: Lena Uvarovskaya
+    team: 1st national team, Republic of Sakha (Yakutia)
+    country:
+      ru: Россия
+      en: Russia 
+    problems1:
+      A: 30
+      B: 0
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 100
+      G: 0
+      H: 0
+      I: 0
+      J: 58
+    total: 188
+    place:
+
+  - participant:
+      ru: Дархан Семенов
+      en: Darkhan Semyonov
+    team: 2nd national team, Republic of Sakha (Yakutia)
+    country:
+      ru: Россия
+      en: Russia
+    problems1:
+      A: 100
+      B: 0
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 0
+      G: 20
+      H: 0
+      I: 0
+      J: 58
+    total: 178
+    place:
+
+  - participant:
+      ru: Аркадий Дмитривев
+      en: Arkady Dmitriev
+    team: 1st national team, Republic of Sakha (Yakutia) 
+    country:
+      ru: Россия
+      en: Russia
+    problems1:
+      A: 100
+      B: 0
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 0
+      G: 0
+      H: 0
+      I: 0
+      J: 58
+    total: 158
+    place:
+
+  - participant:
+      ru: Болашак Кульмухамбетов
+      en: Bolashak Kulmuhambetov
+    team: Aktobe Region
+    country:
+      ru: Казахстан
+      en: Kazakhstan
+    problems1:
+      A: 20
+      B: 20
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 68
+      G: 20
+      H: 0
+      I: 30
+      J: 0
+    total: 158
+    place:
+
+  - participant:
+      ru: Георгий Гритченко
+      en: Georgy Gritchenko
+    team: St. Petersburg State University Academic Gymnasium named after D.K. Faddeev
+    country:
+      ru: Россия
+      en: Russia
+    problems1:
+      A: 0
+      B: 0
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 0
+      I: 0
+      J: 34
+    total: 154
+    place:
+
+  - participant:
+      ru: Андрей Кузьмин
+      en: Andrey Kuzmin
+    team: 1st national team, Republic of Sakha (Yakutia)
+    country:
+      ru: Россия
+      en: Russia
+    problems1:
+      A: 0
+      B: 0
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 100
+      G: 20
+      H: 0
+      I: 0
+      J: 0
+    total: 120
+    place:
+
+  - participant:
+      ru: Мирон Макаров
+      en: Miron Makarov
+    team: 2nd national team, Republic of Sakha (Yakutia)
+    country:
+      ru: Россия
+      en: Russia
+    problems1:
+      A: 0
+      B: 0
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 0
+      G: 20
+      H: 0
+      I: 0
+      J: 58
+    total: 78
+    place:
+
+  - participant:
+      ru: Ксения Фролова
+      en: Ksenia Frolova
+    team: 2nd national team,Republic of Sakha (Yakutia)
+    country:
+      ru: Россия
+      en: Russia
+    problems1:
+      A: 0
+      B: 10
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 44
+      G: 0
+      H: 12
+      I: 0
+      J: 0
+    total: 66
+    place:
+
+  - participant:
+      ru: Дуолан Гаврильев
+      en: Duolan Gavriliev
+    team: 2nd national team, Republic of Sakha (Yakutia)
+    country:
+      ru: Россия
+      en: Russia
+    problems1:
+      A: 20
+      B: 10
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 4
+      G: 20
+      H: 0
+      I: 0
+      J: 0
+    total: 54
+    place:
+
+  - participant:
+      ru: Таисийя Оконешникова
+      en: Taisiya Okoneshnikova
+    team: 2nd national team, Republic of Sakha (Yakutia)
+    country:
+      ru: Россия
+      en: Russia
+    problems1:
+      A: 0
+      B: 5
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 0
+      G: 0
+      H: 0
+      I: 0
+      J: 0
+    total: 5
+    place:
+
+  - participant:
+      ru: Ильяс Алимбеков
+      en: Ilyas Alimbekov
+    team: Jambyl region
+    country:
+      ru: Казахстан
+      en: Kazakhstan
+    problems1:
+      A: 0
+      B: 0
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 0
+      G: 0
+      H: 0
+      I: 0
+      J: 0
+    total: 0
+    place:
+
+  - participant:
+      ru: Мухаммад Алфатих Арразий
+      en: Muhammad Alfatih Arrazy
+    team: Wardaya College
+    country:
+      ru: Индонезия
+      en: Indonesia
+    problems1:
+      A: 0
+      B: 0
+      C: 0
+      D: 0
+      E: 0
+    problems2:
+      F: 0
+      G: 0
+      H: 0
+      I: 0
+      J: 0
+    total: 0
+    place:
